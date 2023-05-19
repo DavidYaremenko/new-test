@@ -83,3 +83,10 @@ first: for(let i = 1; i < 3; i++){ // first: метки в js в циклах д
 		} 
 	} 
 }
+
+let num = 2;
+
+while(num <= 16) {
+    console.log(num)
+    num % 2 ===0;
+}
